@@ -1,5 +1,5 @@
 # golf3-model
-Interactive model of golf III (engine sound, lights)
+Interactive model of golf III (engine sound, imitation of traffic lights)
 
 ![vid](/doc/golf.gif)
 
